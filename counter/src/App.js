@@ -25,6 +25,7 @@ function App() {
   return (
     <div className="App">
       <h1>hello world!</h1>
+      <p>first git commit</p>
       <p>{counter}</p>
       <label>
       Increment/decrement by:
